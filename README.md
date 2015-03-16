@@ -17,4 +17,4 @@
 
 Не забывайте все API методы держать в синглтоне и всегда создавайте модели для приходящих данных.
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/API.gif)
+![alt tag](https://raw.githubusercontent.com/iOSDevCourseBeginner/Lesson45-API-withoutAutorization/master/API.gif)
